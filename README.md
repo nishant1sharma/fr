@@ -22,7 +22,7 @@
         <br>
         <a href="http://127.0.0.1:5500/nishant1.html">nishant1</a>
         <p><em><strong>
-            Shibham Kumar</strong> is best friend of <strong>Nishant Sharma</strong>
+            Shibham Kumar</strong> is brother of <strong>Nishant Sharma</strong>
         </em></p>
         <p> 
             so please don't let shibham upset by anyone 
