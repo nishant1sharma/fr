@@ -1,95 +1,51 @@
 # fr
-<!DOCTYPE html>
-<head>
-    <title>
-        About friends
-    </title>
-</head>
-<body>
-    <center>
+<html>
+    <head>
+        <title>
+            About two friends
+        </title>
+    </head>
+    <body>
+        <center>
         <hr size="3" noshade>
         <h1>
             Nishant Sharma
-            Shibham Kumar
+            Shibham Kumars
         </h1>
         <br>
         <h2>
-            Btech students
+            btech students
         </h2>
         <hr size="3" noshade>
-    </center>
-        <img src="nishantshibham.jpg" alt="error loading" width="150" height="200">
+        </center>
+        <img src="https://i.ibb.co/tK9WbdQ/IMG-20181129-WA0011.jpg" alt="error loading" width="150" height="200">
         <br>
-        <a href ="https://google.com" target="_blank">go to google</a>
-        <br>
-        <a href="http://127.0.0.1:5500/nishant3.html" target="_blank">go to contact me</a>
-        <p><em>
-            <strong>Shibham</strong> is the best friend of <strong>Nishant</strong>
+        <a href="http://127.0.0.1:5500/nishant1.html">nishant1</a>
+        <p><em><strong>
+            Shibham Kumar</strong> is best friend of <strong>Nishant Sharma</strong>
         </em></p>
-        <br>
-        <h2>
-            Similarities
-        </h2>
-        <ul>
+        <p> 
+            so please don't let shibham upset by anyone 
+        </p>
+        <p>
+            if it happens he's going to destroy every thing
+        </p>
+        <h3>
+            Similarities between them: 
+        </h3>
+        <ol>
             <li>
-                Both love to play football
+                Both took their high school from KV Andrews Ganj 
             </li>
             <li>
-                Both are angry man
+                Both got investigated for 11th class maths leak paper
             </li>
-        </ul>
-    <h2>
-        Contact me
-    </h2>
-    <form class="" action="" method="">
-        <label>
-            Your name
-        </label>
-        <input type="text" name="" value="">
-        <input type="submit" name="">
-        <br>
-        <label>
-            Do you want to add email address?
-        </label>
-        <input type="checkbox" name="">
-        <input type="text" name="" value="">
-        <br>
-        <input type="range" name="" value="">
-        <br>
-        <input type="date" name="" value="">
-        <input type="time" name="" value="">
-    </form>
-    <br>
-    <br>
-    <table border="2">
-        <thead>
-            <tr>
-                <td>
-                    name
-                </td>
-                ,<td>
-                    age
-                </td>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>
-                    nishant sharma
-                </td>
-                <td>
-                    19
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    shibham Kumar
-                </td>
-                <td>
-                    19
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
-</body>
+            <li>
+                Both go for washroom with each other
+            </li>
+            <li>
+                both play football and bgmi
+            </li>
+        </ol>
+    </body>
+</html>
